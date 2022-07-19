@@ -22,6 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mailss, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
   - {title: Github, icon: github, url: "https://github.com/teavanist"}
+  - {title: Twitter, icon: twitter, url: "https://github.com/teavanist"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
