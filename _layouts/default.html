@@ -30,7 +30,7 @@
 <header>
   <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
   {% include menu.html menu=pages %}
-</header>
+  <div>{{ site.description | default: site.title }}</div>
 content begins 
 {{ content }}
 
